@@ -1,0 +1,12 @@
+Aply to our web site smoothnes same steps =>
+Smooth scrolling=> using githhub=>
+first step is =>  Attach loco scroll css.
+second step is => Same code from loco githhub for js.
+third step is => Attach locomotive scroll min js.
+and end step is linked for all files in html file.
+
+
+gsap
+first step is=> attached gsap cdn
+
+scrolltrigger
